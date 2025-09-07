@@ -1,0 +1,26 @@
+
+.div-main {
+    display: flex;
+    margin: 13%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.div-container {
+    display: flex;
+    background: radial-gradient(black, transparent);
+    border: 1px solid blue;
+    border-radius: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+    gap: 10px;
+}
+
+.div_item {
+    border-radius: 3px;
+}
+
